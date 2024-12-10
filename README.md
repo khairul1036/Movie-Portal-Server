@@ -44,4 +44,4 @@ The backend for the **Movie Portal** application provides secure and efficient A
 ## 📋 Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b10-a10-server-side-khairul1036.git
+   git clone https://github.com/khairul1036/Movie-Portal-Server.git
